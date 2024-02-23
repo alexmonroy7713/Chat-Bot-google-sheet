@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decent-essence-400122",
+  "private_key_id": "bb7d22b1842576cfd5a212b7dda9fa0849eddc6c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7+LHUjPSpUKxX\nt4TUALsIa23md+Bw/FdVwObKDixi6jLAQEF9jk9fZJP2gpvwwJZzcKu0HeOOTzvX\nfrg3InUQkIHtENWPE9e/Hmsvrl91J6yakhtUtnUPFgskx1zqk1eAHSqqUoiXxqag\n/yTvMtxhOx+l+qHvqnsbta8clulNQ0/U6szOn1DOHXHCFC/E1PvWhOGbQDR6Ga+n\nDdnDfqCNpJUYg+wE78OXunVMddzRzRwsu9v1KpEtc+vBKSTaUKVoxr9ZVtenmRVl\nvmahaFkvf7VZxC8bRGVggEFq517FK/WlXDNjnKf1JGil7RUCe9tpxqTjtRu/bpXE\nVFNuf03DAgMBAAECggEAFBYXZqeorf51aYAuXPs2Vp19kR776FxGtt6rVX8d5h9c\nTKfxIkoWmD0mrzULazbL55/BcWNaQYbyVZebIXp4o6Gq3fAqafohrVts8nDsjsKD\nvWwMffPAtDEpAAVKcV9M/onfWR5YWKOn2FS7bSYfCkgnnHRuYS5zWPrZW1w9p6hG\nRK7ttjzMqIPHXQGwNXbecjK60zyHG163vGqSZ+ZBX2S/QEY82OZYoUk8arMcEovI\nbdBoLpkhQ/yk12FhgYgec8z832AYh7FAATiCvv1UMvcgyc7LBQIxHDEXqpU9bhvG\nClt2wKxW5igJ0Iw8AE6vN68f5VHahxV+rxMEeFLgoQKBgQD6mftHzLMyNnuFVQzI\nXPGVBNovzofjdswiQVzmNZCxg5ZsODqXRzINFKuqUL6t3Pg+PYJmXK/2BIAtRxmK\nIzc3Zt0p7E72O1Y8xfflrNSI+U/sFRJrLQBlv0EgHnWRNpJ/L8cgLH0I36hpecIf\nBWu3TJbjupplPRAijC2tKxeOoQKBgQDABVIX+foyav7FdctLMSmrZL67Wptp0bLB\nu5u7T0ZIdyMG+H4Gy4cB6FzE7gAbSL4R3P1ToszlaS6wYk3pBN2ETxNuxivJeZl5\nXPb1XUrP+bmgHCCvb9CEbpSImKiowHV/3H8SMu9DQ6fNgnKf/dq4pb48ipyLD1kg\nrQWT7kS14wKBgQC+5IC3JsTx4PKilDDSh4o226VgeVCmAp5pEaU0b2Uy82uoMATh\nq4gC0tYZPLyjMAmhT7V/R+d53d/NnbVktoKfHyolfy5+/qAoVx0IxWh4loE88qg/\nH96HovJ3BvzDivB5Fen3Jixwj/53qhonCzgMPrlJ66EksSkTR/ibSpH9QQKBgQCU\nZMg/nUDcq9E+Gj1EW7b/LHk14tzOF2+Uxn6gb7A6Gk/oeCs05x7ru33N9rwAWeQB\nfA4OD3dXJ0UcrKvXE5p5QH8dEWsPZbjUkKKNlk5VkYEBmhssWTYE0kxZj9hvqWRk\nrqtJDjHXgrZwXIpm2FCqd/QfZ2N5GCBh3zS7UNyqzwKBgH7IU10p9rfI+G0yPqud\nTiSqNX43Pxy/8jyfjU2BKB1nG5Ewf6Ia7SMz38SiEXGe830dE3NRg4PLxQd8i3VS\n1JUxCl6IcqCes+TIR+Zpm7C1jutmmCiRDOcIS5IFPEX+hUPC6AQZ9cWUEx+kaQCp\nov7k8efHLylbUCCizmCeQnxI\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-shett@decent-essence-400122.iam.gserviceaccount.com",
+  "client_id": "105307975358720633852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-shett%40decent-essence-400122.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
